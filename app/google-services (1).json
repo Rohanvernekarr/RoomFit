@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406489159799",
+    "project_id": "roomfit-783c9",
+    "storage_bucket": "roomfit-783c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406489159799:android:1bc6fa4cdba2f9d6f24e72",
+        "android_client_info": {
+          "package_name": "com.google.ar.core.examples.java.helloar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9-Y4LyhCNlKO8_8FsAzOfibxgZ7THrXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
